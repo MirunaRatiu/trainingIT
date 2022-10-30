@@ -1,0 +1,28 @@
+.body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.navigation{
+display: flex;
+justify-content: space-between;
+align-items: conter;
+}
+.logo
+{width: 50px;
+height: 50mp;
+}
+.hero
+{
+width: 100vw;
+height: 80.vh;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+background-color: rgb(120,120,120);
+margin: 0;
+
+}
+.card
+{text-align: center;
+margin: auto;}
